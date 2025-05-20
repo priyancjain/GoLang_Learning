@@ -66,20 +66,3 @@ When you run the program, you should see:
 ```
 hello world
 ```
-
-## Git Repository Management
-
-### Initializing Git Repository
-To initialize a Git repository in your project:
-```bash
-git init
-```
-
-### Removing Git Repository
-If you want to remove the Git repository from your project:
-```bash
-# Remove the .git directory
-rm -rf .git
-```
-
-This will completely remove Git version control from your project. Make sure you want to do this as it will delete all Git history and configuration.
